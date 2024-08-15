@@ -11,7 +11,7 @@ export function Manoj() {
       <header className="flex items-center justify-between bg-background px-4 py-3 border-b shadow-sm sm:px-6">
         <Link href="#" className="flex items-center gap-2 text-lg font-semibold" prefetch={false}>
           <BotIcon className="w-6 h-6" />
-          <span>Pawan's ChatBot</span>
+          <span>Pawans ChatBot</span>
         </Link>
         <DropdownMenu>
           <DropdownMenuTrigger asChild>
