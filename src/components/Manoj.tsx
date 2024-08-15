@@ -96,8 +96,8 @@ export function Manoj() {
                   <div className="font-bold">ChatBot</div>
                   <div className="prose">
                     <p>
-                      Airplane turbulence happens when the plane hits pockets of air that are moving differently. It's
-                      like driving on a bumpy road - the plane can feel like it's bouncing or shaking a bit. But it's
+                      {/* Airplane turbulence happens when the plane hits pockets of air that are moving differently. It's */}
+                      {/* like driving on a bumpy road - the plane can feel like it's bouncing or shaking a bit. But it's */}
                       totally normal and not dangerous at all.
                     </p>
                   </div>
@@ -131,7 +131,7 @@ export function Manoj() {
                       <li>Bring snacks and entertainment to pass the time</li>
                       <li>Stay hydrated and avoid alcohol before the flight</li>
                       <li>Try to get an aisle or window seat for more comfort</li>
-                      <li>Don't be afraid to ask the flight attendants for help</li>
+                      {/* <li>Don't be afraid to ask the flight attendants for help</li> */}
                     </ul>
                   </div>
                 </div>
