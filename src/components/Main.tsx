@@ -5,8 +5,12 @@ import { Button } from "@/components/ui/button";
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 import { Textarea } from "@/components/ui/textarea";
 
-export function Manoj() {
-  return (
+
+
+export function Main() {
+  return (<>
+  
+   
     <div className="flex flex-col min-h-screen w-full">
       <header className="flex items-center justify-between bg-background px-4 py-3 border-b shadow-sm sm:px-6">
         <Link href="#" className="flex items-center gap-2 text-lg font-semibold" prefetch={false}>
@@ -158,6 +162,7 @@ export function Manoj() {
         </div>
       </div>
     </div>
+    </>
   );
 }
 
@@ -221,5 +226,7 @@ function PenIcon(props: React.SVGProps<SVGSVGElement>) {
     >
       <path d="M17 3a2.85 2.83 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5Z" />
     </svg>
+
   );
+  
 }

@@ -34,3 +34,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+KINDE_CLIENT_ID=d58a9b97022f414ba0b0c6237d514d3d
+KINDE_CLIENT_SECRET=k7DaDHF9ZmZXoc0wj4m7LsNTOiahFpQWHJShrZfY68Q07X0x8W
+KINDE_ISSUER_URL=https://belbus.kinde.com
+KINDE_SITE_URL=http://localhost:3000
+KINDE_POST_LOGOUT_REDIRECT_URL=http://localhost:3000
+KINDE_POST_LOGIN_REDIRECT_URL=http://localhost:3000/dashboard
